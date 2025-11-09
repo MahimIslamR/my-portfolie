@@ -11,6 +11,8 @@ import ProjectDetails from "./components/ProjectDetail";
 import WelcomeScreen from "./Pages/WelcomeScreen";
 import { AnimatePresence } from 'framer-motion';
 
+
+
 const LandingPage = ({ showWelcome, setShowWelcome }) => {
   return (
     <>
